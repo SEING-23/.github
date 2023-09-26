@@ -1,3 +1,5 @@
-# NumPy Bootcamp
+# Taller de Python Intermedio - Numpy
 
-Espacio de trabajo para Taller de Python Intermedio
+Espacio de trabajo para prácticas y ejercicios
+
+* [Repositorio base-plantilla](https://github.com/SEING-23/numpy-practice)
